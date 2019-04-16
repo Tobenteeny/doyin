@@ -1,0 +1,416 @@
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/background.jpg);
+	/*position: fixed;*/
+	text-align: center;
+	margin-top: 250px;
+
+	*background-position: static;*/
+	width: 100%;
+	height:100%;
+	
+
+	
+}
+
+a{
+	text-decoration: none;
+}
+
+h2{
+	color: rgb(179, 45, 67);
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+	margin-top: 250px;
+}
+
+h1{
+	color:white;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-top: -20px;
+}
+
+h3{
+	color: rgb(218, 210, 210);
+	font-family: Agency Fb;
+	margin-top: -5px;
+}
+
+ #button{
+	text-align: center;
+	/*width: 250px;*/
+	color: white;
+	font-family: chiller;
+	margin-top: 70px;
+	font-size: 20px;
+	border: 4px solid rgb(92, 87, 87);
+	
+	/*margin-left: 550px;*/
+	padding-top: 15PX;
+	padding-bottom: 15PX;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-decoration: none;
+
+}
+
+ #button:hover{
+	text-align: center;
+	/*width: 250px;*/
+	color: white;
+	font-family: chiller;
+	margin-top: 70px;
+	font-size: 20px;
+	border: 4px solid rgb(179, 45, 67);
+
+	
+	/*margin-left: 550px;*/
+	padding-top: 15PX;
+	padding-bottom: 15PX;
+	text-decoration: none;
+
+}
+
+img{
+				margin-top: 150px;
+}
+/*
+img:hover{
+				margin-top: 150px;
+				background-color:  white;
+}*/
+
+#aboutme{
+			height: 1500px;
+			width: 100%;
+			background-color: white;
+			margin-top: 50px;
+}
+
+#ab{
+	color: rgb(179, 45, 67);
+	font-family: tahoma;
+	padding-top: 100px;
+	margin-top: -20px;
+}
+
+#head{
+	 font-size: 40px;
+
+}
+
+article{
+	 color: grey;
+	 font-size: 20px;
+}
+
+#img{
+		margin-top: 20px;
+		border: 0.5px solid white;
+		border-radius: 50px;
+
+}
+
+#profile{
+			/*flex-direction: row;*/
+			/*position: absolute;*/
+			/*float: left;*/
+			margin-top: 30px;
+			/*margin-left: 250PX;*/
+			text-align: left;
+}
+
+#grey{
+		font-family: agency fb;
+		color: grey;
+}
+
+#flex{
+		font-family: tahoma;
+}
+
+/*#skills{
+		flex-direction: row;
+		position: absolute;
+		float: left;
+		margin-top: 30px;
+}
+*/
+
+/*
+#skills{
+		font-family: tahoma;
+
+
+
+}
+*/
+
+#iimg{
+
+		margin-top: 55px;
+}
+
+
+#skills{
+			text-align: left;
+			float: right;
+			/*margin-top: 30px;*/
+			/*flex-direction: row;*/
+}
+
+span{
+	/*padding-top: 1000px;*/
+	font-family: fantasy;
+	color: rgb(43, 42, 42);
+	border: 3px solid rgb(43, 42, 42);
+	padding-top: 15PX;
+	padding-bottom: 15PX;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+span:hover{
+	/*padding-top: 1000px;*/
+	font-family: fantasy;
+	color: rgb(179, 45, 67);
+	border: 3px solid rgb(179, 45, 67);
+	padding-top: 15PX;
+	padding-bottom: 15PX;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+
+/*#skills:hover{
+		font-family: tahoma;
+		color: skyblue;
+		font-size: 20px;
+		text-align: center;
+		
+
+
+}*/
+
+#contact{
+		margin-top: 500px;
+}
+
+#cv{
+	background-color:  rgb(43, 42, 42);
+	color: white;
+}
+
+#cv:hover{
+	background-color: black;
+	color: white;
+	border: 3px solid black;
+}
+
+#work{
+		height: 2370px;
+		width: 100%;
+		background-color: rgb(245, 238, 238);
+
+}
+
+ #resume{
+	color: rgb(179, 45, 67);
+	font-family: Impact;
+	padding-top: 100px;
+
+}
+
+#images{
+		margin-top: 20px;
+}
+
+#gallery{
+			height: 1060px;
+			width: 100%;
+			background-color: white;
+}
+
+#pics{
+		height: 600px;
+		background-image: url(../images/tob.jpg);
+		background-size: cover;
+		/*background-repeat: no-repeat;*/
+		width: 400px;
+		/*position: absolute;*/
+		/*padding-top: 300px;
+		font-family: Tahoma;
+		color: white;
+		font-size: 50px;
+		/*visibility: hid*/
+}
+
+#text{
+		padding-top: 50%;
+		font-family: Tahoma;
+		color: white;
+		font-size: 50px;
+		/*visibility: hidden;*/
+
+}
+
+#pics:hover{
+		height: 600px;
+		background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/tob.jpg);
+		background-size: cover;
+		/*background-repeat: no-repeat;*/
+		width: 400px;
+		/*position: absolute;*/
+		/*padding-top: 300px;
+		font-family: Tahoma;
+		color: white;
+		font-size: 50px;*/
+		/*visibility: hidden;*/
+}
+
+#pics1{
+		height: 600px;
+		background-image: url(../images/tobi.jpg);
+		background-size: cover;
+		/*background-repeat: no-repeat;*/
+		width: 400px;
+		
+		
+}
+
+#pics1:hover{
+		height: 600px;
+		background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/tobi.jpg);
+		background-size: cover;
+		/*background-repeat: no-repeat;*/
+		width: 400px;
+		
+}
+
+#pics2{
+		height: 600px;
+		background-image: url(../images/tobii.jpg);
+		background-size: cover;
+		/*background-repeat: no-repeat;*/
+		width: 400px;
+
+
+}
+
+#pics2:hover{
+		height: 600px;
+		background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../images/tobii.jpg);
+		background-size: cover;
+		/*background-repeat: no-repeat;*/
+		width: 400px;
+		/*transition: all 5s;*/
+	}
+
+#services{
+
+			height: 650px;
+			width: 100%;
+			/*background-image: url(../images/watermarkk.jpg);*/
+			background-size: cover;
+}
+
+#imager{
+		margin-top: 10px;
+		position: absolute;
+		/*float: left;*/
+}
+
+#process{
+
+			height: 300px;
+			width: 100%;
+			background-color: rgb(179, 45, 67);
+}
+
+#cm{
+	/*padding-top: 1000px;*/
+	font-family: fantasy;
+	color: white;
+	/*border: 3px solid rgb(43, 42, 42);*/
+	border: 3px solid black;
+	padding-top: 15PX;
+	padding-bottom: 15PX;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#cm:hover{
+	/*padding-top: 1000px;*/
+	font-family: fantasy;
+	color: white;
+	border: 3px solid black;
+	padding-top: 25PX;
+	padding-bottom: 25PX;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#cv1{
+	background-color:  rgb(45, 46, 46);
+
+	color: white;
+	border: 3px solid rgb(45, 46, 46);
+	/*left: 100px;*/
+}
+
+#cv1:hover{
+	background-color: black;
+	color: white;
+	border: 3px solid black;
+	/*padding-top: 25PX;
+	padding-bottom: 25PX;
+	padding-left: 50px;
+	padding-right: 50px;*/
+}
+
+#cv{
+	background-color:  black;
+	color: white;
+	border: 3px solid black;
+	/*left: 100px;*/
+}
+
+#cv:hover{
+	background-color: black;
+	color: white;
+	border: 3px solid black;
+	padding-top: 25PX;
+	padding-bottom: 25PX;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+#form{
+				height: 1400px;
+				width: 100%;
+				background-color: black;
+}
+
+form{
+
+		width: 100%;
+}
+
+/*#formm{
+		border: 0.5px solid black;
+
+		border-radius: 30px;
+}*/
+
+
+
+
+
+/*#text:hover{
+		padding-top: 50%;
+		font-family: Tahoma;
+		color: white;
+		font-size: 50px;
+		visibility: hidden;
+
+}*/
+
